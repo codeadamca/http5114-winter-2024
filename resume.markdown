@@ -5,3 +5,7 @@
 I like to code!
 
 ## Employment
+
+## Educations
+
+## Contact
