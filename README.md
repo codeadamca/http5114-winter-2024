@@ -1,4 +1,4 @@
-# HTTP5114 Workshops 1 - Winter 2024
+# HTTP5114 Workshops 1
 
 A collection of files coded while teaching a workshops class.
 
@@ -6,9 +6,7 @@ A collection of files coded while teaching a workshops class.
 
 ## Repo Resources
 
-* [JavaScript on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [JavaScript on W3Schools](https://www.w3schools.com/js/)
-* [Open Weather Map](https://openweathermap.org/)
+* [Humber Web Development](https://mediaarts.humber.ca/programs/web-development.html)
 * [BrickMMO](https://brickmmo.com/)
 
 <a href="https://codeadam.ca">
